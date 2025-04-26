@@ -1,0 +1,6 @@
+line one
+<<<<<<< HEAD
+line twwo from mastr
+=======
+line 2
+>>>>>>> bcd56b1 (c2)
